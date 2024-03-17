@@ -34,7 +34,7 @@ Crowd Density Estimation: Implement techniques to estimate crowd density and ana
  Train the model on large datasets with diverse face images to improve robustness.
 Employ techniques such as Haar cascades, Histogram of Oriented Gradients (HOG), or SSD (Single Shot Multibox Detector) for real-time performance.
 
-![flowchart]("https://images.app.goo.gl/4yVQnEVBFnEygU4o7")
+
 
 ## Techstacks used 
 deeplearning,ml,python

@@ -24,31 +24,28 @@ Team number : VH082
 
 
 ## Problem statement 
-mention the problem , and mention the severity of the problem and why we need solution for that  , mention which gorup of people face that problem
+Developing an Efficient Face Detection and Crowd Monitoring System for Public Safety and Security
 ## About the project
-mention few details and features of the project , how it is solving the problem 
+Real-time Face Detection: Develop algorithms capable of accurately detecting and recognizing human faces in live video feeds, considering factors such as variations in lighting, occlusions, and facial orientations.
+Crowd Density Estimation: Implement techniques to estimate crowd density and analyze crowd movements using video streams from surveillance cameras, enabling real-time monitoring of crowd behavior.
 
 ## Technical implemntaion 
-mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
-- use bullets to explain
-- be consise and specific
-- explain with images and flowcharts
-- 
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+ Utilize deep learning-based approaches like Convolutional Neural Networks (CNNs) for accurate face detection.
+ Train the model on large datasets with diverse face images to improve robustness.
+Employ techniques such as Haar cascades, Histogram of Oriented Gradients (HOG), or SSD (Single Shot Multibox Detector) for real-time performance.
+
+![flowchart]("https://images.app.goo.gl/4yVQnEVBFnEygU4o7")
 
 ## Techstacks used 
-nodejs , react , ml , tech stack 1 , tech stack 2
+deeplearning,ml,python
 
 ## How to run locally 
-explain detailed steps to run your project locally , example to run a react application 
-- step 1 : clone the repo 
-
-npm install
-npm start
+visual studio code
+anaconda 
 
 
 # What's next ?
-tell the future plan that you have for the project , tell the updates that you would wish to bring
+Enhanced Accuracy and Performance, Multi-Modal Sensing,Real-time Analytics and Decision Support
 
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.

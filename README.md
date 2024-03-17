@@ -7,15 +7,15 @@
 </h1>
 
 # [`Demo video link `](https://youtu.be/qyDqY9Nnyvk) 
-mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
+The Face Detection and Crowd Monitoring System is an advanced technological solution designed to enhance security, optimize crowd management, and facilitate efficient monitoring in various environments. Leveraging cutting-edge computer vision algorithms and deep learning techniques, this system offers real-time analysis of individuals within crowded spaces, ensuring heightened situational awareness and proactive response capabilities.
 ## Team Details
-Team number : VH000
+Team number : VH082
 
-| Name    | Email           |
-|---------|-----------------|
-| person1 | person1@gmail.com |
-| person2 | person2@gmail.com |
-| person3 | person3@gmail.com |
+| Name    | Email           |          
+|KILLI PHANIKANTH|99210041563@klu.ac.in|            
+| DASARI VIVEKANANDA | vivekanandadasari313@gmail.com |       
+| KAKUMANU SUNNY | 9921004805@klu.ac.in |         
+| JAJAM TEJMAI | 99210041045@klu.ac.in |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
